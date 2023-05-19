@@ -1,0 +1,150 @@
+jp-free-01.protonvpn.net 103.125.235.18    Tokyo, Tokyo
+jp-free-02.protonvpn.net 138.199.22.102    Tokyo, Tokyo
+jp-free-03.protonvpn.net 45.14.71.5    Osaka, Ōsaka
+jp-free-04.protonvpn.net 138.199.21.193    Tokyo, Tokyo
+jp-free-05.protonvpn.net 138.199.21.206    Tokyo, Tokyo
+jp-free-06.protonvpn.net 138.199.22.103    Tokyo, Tokyo
+jp-free-07.protonvpn.net 45.14.71.7    Osaka, Ōsaka
+jp-free-08.protonvpn.net 212.102.51.241    Tokyo, Tokyo
+jp-free-09.protonvpn.net 138.199.21.216    Tokyo, Tokyo
+jp-free-10.protonvpn.net 138.199.22.97    Tokyo, Tokyo
+jp-free-11.protonvpn.net 37.19.205.145    Tokyo, Tokyo
+jp-free-12.protonvpn.net 37.19.205.150    Tokyo, Tokyo
+jp-free-13.protonvpn.net 212.102.51.247    Tokyo, Tokyo
+jp-free-14.protonvpn.net 138.199.21.198    Tokyo, Tokyo
+nl-free-01.protonvpn.net 217.23.3.76    Naaldwijk, South Holland
+nl-free-04.protonvpn.net 190.2.132.198    Naaldwijk, South Holland
+nl-free-08.protonvpn.net 89.38.99.188    Naaldwijk, South Holland
+nl-free-09.protonvpn.net 190.2.138.15    Naaldwijk, South Holland
+nl-free-102.protonvpn.net 212.8.243.7    Naaldwijk, South Holland
+nl-free-103.protonvpn.net 212.8.253.154    Naaldwijk, South Holland
+nl-free-104.protonvpn.net 212.8.253.137    Naaldwijk, South Holland
+nl-free-105.protonvpn.net 185.182.193.5    Naaldwijk, South Holland
+nl-free-106.protonvpn.net 185.182.193.107    Naaldwijk, South Holland
+nl-free-111.protonvpn.net 138.199.7.181    Amsterdam, North Holland
+nl-free-112.protonvpn.net 149.34.244.129    Amsterdam, North Holland
+nl-free-114.protonvpn.net 149.34.244.139    Amsterdam, North Holland
+nl-free-116.protonvpn.net 149.34.244.149    Amsterdam, North Holland
+nl-free-117.protonvpn.net 149.34.244.154    Amsterdam, North Holland
+nl-free-118.protonvpn.net 149.34.244.159    Amsterdam, North Holland
+nl-free-119.protonvpn.net 149.34.244.164    Amsterdam, North Holland
+nl-free-12.protonvpn.net 138.199.7.159    Amsterdam, North Holland
+nl-free-120.protonvpn.net 149.34.244.169    Amsterdam, North Holland
+nl-free-121.protonvpn.net 149.34.244.174    Amsterdam, North Holland
+nl-free-122.protonvpn.net 149.34.244.179    Amsterdam, North Holland
+nl-free-123.protonvpn.net 185.107.56.28    Roosendaal, North Brabant
+nl-free-124.protonvpn.net 185.107.56.44    Roosendaal, North Brabant
+nl-free-125.protonvpn.net 185.107.56.49    Roosendaal, North Brabant
+nl-free-127.protonvpn.net 185.107.56.75    Amsterdam, North Holland
+nl-free-128.protonvpn.net 185.107.56.235    Amsterdam, North Holland
+nl-free-13.protonvpn.net 89.39.107.188    Naaldwijk, South Holland
+nl-free-130.protonvpn.net 185.107.56.133    Amsterdam, North Holland
+nl-free-132.protonvpn.net 185.107.56.123    Amsterdam, North Holland
+nl-free-133.protonvpn.net 169.150.218.55    Amsterdam, North Holland
+nl-free-135.protonvpn.net 169.150.218.65    Amsterdam, North Holland
+nl-free-136.protonvpn.net 169.150.218.70    Amsterdam, North Holland
+nl-free-137.protonvpn.net 169.150.218.75    Amsterdam, North Holland
+nl-free-138.protonvpn.net 169.150.218.21    Amsterdam, North Holland
+nl-free-139.protonvpn.net 169.150.218.1    Amsterdam, North Holland
+nl-free-14.protonvpn.net 89.39.107.109    Naaldwijk, South Holland
+nl-free-140.protonvpn.net 169.150.218.6    Amsterdam, North Holland
+nl-free-141.protonvpn.net 169.150.218.36    Amsterdam, North Holland
+nl-free-142.protonvpn.net 169.150.218.26    Amsterdam, North Holland
+nl-free-143.protonvpn.net 169.150.218.16    Amsterdam, North Holland
+nl-free-144.protonvpn.net 169.150.218.31    Amsterdam, North Holland
+nl-free-145.protonvpn.net 169.150.218.80    Amsterdam, North Holland
+nl-free-146.protonvpn.net 169.150.218.85    Amsterdam, North Holland
+nl-free-148.protonvpn.net 169.150.218.91    Amsterdam, North Holland
+nl-free-15.protonvpn.net 89.39.107.113    Naaldwijk, South Holland
+nl-free-150.protonvpn.net 185.107.56.219    Amsterdam, North Holland
+nl-free-151.protonvpn.net 185.107.56.143    Amsterdam, North Holland
+nl-free-152.protonvpn.net 185.107.56.148    Amsterdam, North Holland
+nl-free-153.protonvpn.net 185.107.56.211    Amsterdam, North Holland
+nl-free-155.protonvpn.net 77.247.178.106    Amsterdam, North Holland
+nl-free-156.protonvpn.net 185.107.56.22    Roosendaal, North Brabant
+nl-free-157.protonvpn.net 185.107.56.106    Amsterdam, North Holland
+nl-free-158.protonvpn.net 185.107.56.153    Amsterdam, North Holland
+nl-free-16.protonvpn.net 89.39.107.185    Naaldwijk, South Holland
+nl-free-160.protonvpn.net 185.107.56.162    Amsterdam, North Holland
+nl-free-161.protonvpn.net 185.107.57.6    Rotterdam, South Holland
+nl-free-162.protonvpn.net 185.107.56.130    Amsterdam, North Holland
+nl-free-23.protonvpn.net 46.166.182.31    Amsterdam, North Holland
+nl-free-29.protonvpn.net 185.177.124.190    Naaldwijk, South Holland
+nl-free-31.protonvpn.net 185.177.124.219    Naaldwijk, South Holland
+nl-free-34.protonvpn.net 185.177.125.196    Naaldwijk, South Holland
+nl-free-35.protonvpn.net 185.177.125.172    Naaldwijk, South Holland
+nl-free-39.protonvpn.net 212.102.35.225    Amsterdam, North Holland
+nl-free-42.protonvpn.net 169.150.196.65    Amsterdam, North Holland
+nl-free-44.protonvpn.net 169.150.196.77    Amsterdam, North Holland
+nl-free-46.protonvpn.net 169.150.196.89    Amsterdam, North Holland
+nl-free-51.protonvpn.net 169.150.196.98    Amsterdam, North Holland
+nl-free-52.protonvpn.net 169.150.196.99    Amsterdam, North Holland
+nl-free-53.protonvpn.net 169.150.196.100    Amsterdam, North Holland
+nl-free-54.protonvpn.net 138.199.7.233    Amsterdam, North Holland
+nl-free-55.protonvpn.net 138.199.7.234    Amsterdam, North Holland
+nl-free-56.protonvpn.net 138.199.7.250    Amsterdam, North Holland
+nl-free-57.protonvpn.net 138.199.7.251    Amsterdam, North Holland
+nl-free-65.protonvpn.net 109.236.81.160    Naaldwijk, South Holland
+nl-free-72.protonvpn.net 93.190.138.166    Naaldwijk, South Holland
+nl-free-74.protonvpn.net 89.38.97.138    Naaldwijk, South Holland
+nl-free-75.protonvpn.net 185.183.33.217    Naaldwijk, South Holland
+nl-free-81.protonvpn.net 185.177.126.132    Naaldwijk, South Holland
+nl-free-82.protonvpn.net 185.177.126.14    Naaldwijk, South Holland
+nl-free-87.protonvpn.net 89.38.97.196    Naaldwijk, South Holland
+nl-free-88.protonvpn.net 89.39.104.165    Naaldwijk, South Holland
+nl-free-89.protonvpn.net 89.39.106.82    Naaldwijk, South Holland
+nl-free-90.protonvpn.net 89.39.107.156    Naaldwijk, South Holland
+nl-free-91.protonvpn.net 93.190.140.80    Amsterdam, North Holland
+nl-free-92.protonvpn.net 185.177.126.140    Naaldwijk, South Holland
+nl-free-93.protonvpn.net 169.150.196.145    Amsterdam, North Holland
+nl-free-96.protonvpn.net 138.199.7.235    Amsterdam, North Holland
+nl-free-97.protonvpn.net 212.8.250.234    Rotterdam, South Holland
+nl-free-98.protonvpn.net 212.8.250.216    Rotterdam, South Holland
+us-free-02.protonvpn.net 89.187.185.161    Los Angeles, California
+us-free-03.protonvpn.net 195.181.163.1    Miami, Florida
+us-free-04.protonvpn.net 45.89.173.194    New York City, New York
+us-free-05.protonvpn.net 217.138.206.82    New York City, New York
+us-free-06.protonvpn.net 37.19.200.1    Dallas, Texas
+us-free-07.protonvpn.net 89.187.179.55    New York City, New York
+us-free-08.protonvpn.net 156.146.54.81    San Jose, California
+us-free-09.protonvpn.net 89.187.180.1    Chicago, Illinois
+us-free-10.protonvpn.net 89.187.177.71    New York City, New York
+us-free-11.protonvpn.net 195.181.162.163    Miami, Florida
+us-free-12.protonvpn.net 185.230.126.2    New York City, New York
+us-free-13.protonvpn.net 38.132.103.146    New York City, New York
+us-free-14.protonvpn.net 89.187.170.159    Atlanta, Georgia
+us-free-15.protonvpn.net 37.19.200.22    Dallas, Texas
+us-free-154.protonvpn.net 138.199.52.193    New York City, New York
+us-free-155.protonvpn.net 37.19.199.149    New York City, New York
+us-free-16.protonvpn.net 37.19.200.17    Dallas, Texas
+us-free-17.protonvpn.net 37.19.199.144    New York City, New York
+us-free-18.protonvpn.net 138.199.50.98    Miami, Florida
+us-free-19.protonvpn.net 37.19.199.129    New York City, New York
+us-free-20.protonvpn.net 37.19.199.134    New York City, New York
+us-free-21.protonvpn.net 37.19.199.139    New York City, New York
+us-free-28.protonvpn.net 143.244.44.161    Weehawken, New Jersey
+us-free-29.protonvpn.net 143.244.44.166    Weehawken, New Jersey
+us-free-30.protonvpn.net 143.244.44.171    Weehawken, New Jersey
+us-free-31.protonvpn.net 143.244.44.176    Weehawken, New Jersey
+us-free-32.protonvpn.net 193.148.18.58    New York City, New York
+us-free-33.protonvpn.net 193.148.18.74    New York City, New York
+us-free-34.protonvpn.net 45.87.214.106    Miami, Florida
+us-free-40.protonvpn.net 37.19.221.193    Houston, Texas
+us-free-41.protonvpn.net 37.19.221.197    Houston, Texas
+us-free-42.protonvpn.net 37.19.221.194    Houston, Texas
+us-free-43.protonvpn.net 37.19.221.195    Houston, Texas
+us-free-44.protonvpn.net 37.19.221.196    Houston, Texas
+us-free-45.protonvpn.net 37.19.221.199    Houston, Texas
+us-free-46.protonvpn.net 89.187.180.55    Chicago, Illinois
+us-free-47.protonvpn.net 37.19.221.198    Houston, Texas
+us-free-48.protonvpn.net 89.187.180.54    Chicago, Illinois
+us-free-49.protonvpn.net 143.244.44.181    Weehawken, New Jersey
+us-free-50.protonvpn.net 156.146.51.129    Seattle, Washington
+us-free-51.protonvpn.net 146.70.147.98    New York City, New York
+us-free-52.protonvpn.net 146.70.45.82    Miami, Florida
+us-free-53.protonvpn.net 146.70.174.66    New York City, New York
+us-free-54.protonvpn.net 185.236.200.242    New York City, New York
+us-free-55.protonvpn.net 146.70.202.114    New York City, New York
+us-free-56.protonvpn.net 146.70.202.82    New York City, New York
+us-free-57.protonvpn.net 146.70.202.34    New York City, New York
+us-free-58.protonvpn.net 146.70.202.2    New York City, New York
