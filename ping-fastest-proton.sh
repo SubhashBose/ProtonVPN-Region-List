@@ -7,7 +7,7 @@ curl -s https://raw.githubusercontent.com/SubhashBose/ProtonVPN-Region-List/main
 echo -n '' > pv.ping.tmp
 awk '{print $2}' pv.regions.tmp |  while read ip
 do
-	sh -c "echo `(echo 'round-trip min/avg/max/stddev = 0/999999/0/0 ms'; ping -c 10 -t 2 $ip) | grep avg | tail -1 | cut -d '/' -f 5` $ip >> pv.ping.tmp" & 
+	sh -c "echo `(echo 'round-trip min/avg/max/stddev = 0/999999/0/0 ms'; ping -c 5 -w 2 $ip) | grep avg | tail -1 | cut -d '/' -f 5` $ip >> pv.ping.tmp" & 
 done
 
 while [ "`wc -l pv.regions.tmp | awk '{print $1}'`" -gt "`wc -l pv.ping.tmp | awk '{print $1}'`" ]; 
