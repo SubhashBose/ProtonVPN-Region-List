@@ -18,7 +18,7 @@ do
     sleep 1
 done
 
-sort -g pv.ping.tmp | head -1
+sort -g pv.ping.tmp | head -20 | column -t
 
 #topip=`sort -g pv.ping.tmp | head -1 | awk '{print $2}'`
 
