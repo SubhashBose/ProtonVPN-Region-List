@@ -2,12 +2,15 @@
 
 curl -s https://raw.githubusercontent.com/SubhashBose/ProtonVPN-Region-List/main/region_list.txt > pv.regions.tmp
 
-#(echo "round-trip min/avg/max/stddev = 0/999999/0/0 ms"; ping -c 5 -t 2 8.8.8.8) | grep avg |tail -1
-
 echo -n '' > pv.ping.tmp
+ptimeout='2'
+if [[ $(uname -s) == Darwin* ]]; then
+	ptimeout="${ptimeout}000"
+fi
+
 awk '{print $2}' pv.regions.tmp |  while read ip
 do
-	sh -c "echo `(echo 'round-trip min/avg/max/stddev = 0/999999/0/0 ms'; ping -c 5 -w 2 $ip) | grep avg | tail -1 | cut -d '/' -f 5` $ip >> pv.ping.tmp" & 
+	sh -c "echo `(echo 'round-trip min/avg/max/stddev = 0/999999/0/0 ms'; ping -c 5 -W $ptimeout $ip) | grep avg | tail -1 | cut -d '/' -f 5` $ip >> pv.ping.tmp" & 
 done
 
 while [ "`wc -l pv.regions.tmp | awk '{print $1}'`" -gt "`wc -l pv.ping.tmp | awk '{print $1}'`" ]; 
