@@ -147,4 +147,4 @@ us-free-54.protonvpn.net 185.236.200.242    New York City, New York
 us-free-55.protonvpn.net 146.70.202.114    New York City, New York
 us-free-56.protonvpn.net 146.70.202.82    New York City, New York
 us-free-57.protonvpn.net 146.70.202.34    New York City, New York
-us-free-58.protonvpn.net 146.70.202.2    New York City, New York
+us-free-58.protonvpn.net 146.70.202.200    New York City, New York
