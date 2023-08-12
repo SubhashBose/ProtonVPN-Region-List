@@ -1,3 +1,4 @@
+rm -f region_list.txt
 for file in ProtonVPN_server_configs/*.udp.ovpn
 do
 	ip=`grep 'remote ' $file | head -1 | awk '{print $2}'`
