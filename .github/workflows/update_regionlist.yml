@@ -1,0 +1,33 @@
+name: Push Update
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Create local changes
+      run: |
+        #wget "https://account.protonvpn.com/api/vpn/config?Category=Server&Tier=0&Platform=Router&Protocol=udp" -O ProtonVPN_server_configs.zip && \
+        #rm -rf ProtonVPN_server_configs && \
+        unzip ProtonVPN_server_configs.zip -d ProtonVPN_server_configs && \
+        rm -f ProtonVPN_server_configs.zip
+        ./get_region.sh
+        rm -rf ProtonVPN_server_configs
+        git add .
+    - name: Commit files
+      run: |
+        git config --local user.email "updatebot@no.reply"
+        git config --local user.name "updatebot"
+        git commit -a -m "Update"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
