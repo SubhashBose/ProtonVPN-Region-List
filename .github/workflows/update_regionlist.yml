@@ -20,7 +20,7 @@ jobs:
         rm -f ProtonVPN_server_configs.zip
         chmod 777 get_region.sh
         ./get_region.sh
-        rm -rf ProtonVPN_server_configs
+        rm -f ProtonVPN_server_configs.zip
         git add .
     - name: Commit files
       run: |
