@@ -11,6 +11,7 @@ fi
 awk '{print $2}' pv.regions.tmp |  while read ip
 do
 	sh -c 'echo `(echo "/avg///999999//"; ping -c 5 -W '"$ptimeout $ip"') | grep avg | tail -1 | cut -d "/" -f 5`ms  `grep '"\" $ip \""' pv.regions.tmp` >> pv.ping.tmp' & 
+ 	sleep 0.5
 done
 
 while [ "`wc -l pv.regions.tmp | awk '{print $1}'`" -gt "`wc -l pv.ping.tmp | awk '{print $1}'`" ]; 
